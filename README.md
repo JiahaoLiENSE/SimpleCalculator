@@ -5,4 +5,4 @@
 <h3>Functionality:</h3>
 <p><b>Operation: </b>Ask for user string input and then do calculation.</p>
 
-<p><b>operators: </b>+, -, *. /</p>
+<p><b>Operators: </b>+, -, *. /</p>
