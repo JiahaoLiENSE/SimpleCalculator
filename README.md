@@ -3,6 +3,6 @@
 </h2>
 
 <h3>Functionality:</h3>
-<p>Ask for user string input and then do calculation.</p>
+<p><b>Operation: </b>Ask for user string input and then do calculation.</p>
 
-<p><b>operations:</b>+, -, *. /</p>
+<p><b>operators: </b>+, -, *. /</p>
