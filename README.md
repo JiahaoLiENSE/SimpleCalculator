@@ -1,5 +1,6 @@
 # SimpleCalculator
-This is a simple calculator in Java.
+<h2>This is a simple calculator in Java.
+</h2>
 
-Functionality:
-Ask for user string put and then do calculation.
+<h3>Functionality:</h3>
+<p>Ask for user string put and then do calculation.</p>
